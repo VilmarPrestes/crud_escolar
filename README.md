@@ -50,5 +50,5 @@ A documentação da API é gerada automaticamente e pode ser acessada de forma i
 
 ## Estrutura do Projeto
 
-src/ ├── main/ │ ├── java/ │ │ └── com/ │ │ └── vilmarprestes/ │ │ └── crud_escolar/ │ │ ├── config/ # Configurações do projeto (Swagger, configuração de banco de dados, etc.) │ │ ├── controller/ # Controladores responsáveis pelos endpoints (Alunos, Cursos) │ │ ├── dto/ # Data Transfer Objects (AlunosDTO, CursosDTO) │ │ ├── model/ # Modelos das entidades (Aluno, Curso) │ │ ├── repository/ # Interfaces de repositórios para persistência (AlunoRepository, CursoRepository) │ │ └── service/ # Lógica de negócio (AlunoService, CursoService) │ └── resources/ │ ├── application.properties # Configurações da aplicação (porta, banco de dados, etc.) │ └── static/ # Arquivos estáticos (não utilizados neste projeto) └── pom.xml # Gerenciador de dependências (Maven)
+<img width="286" alt="Screenshot 2025-03-06 at 02 14 22" src="https://github.com/user-attachments/assets/952fb5af-0dd3-4444-a505-015acb9dc3b0" />
 
